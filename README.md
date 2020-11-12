@@ -7,7 +7,6 @@ The application communicates with Facebook and provide basic features like:
   <li>Post new status</li>
   <li>Change profile picture and cover picture</li>
   <li>Displays user data like: </li>
-    <li>Full Name</li>
   
 
 
