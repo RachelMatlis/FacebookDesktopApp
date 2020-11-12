@@ -1,4 +1,3 @@
 # Facebook desktop application using Facebook SDK and FbGraphApiWrapper
 
-Creating a Facebook desktop application using Facebook SDK and FbGraphApiWrapper
-(.NET Framework 4, WinForms, Visual Studio)
+The application communicates with Facebook and acts on behalf of the user
