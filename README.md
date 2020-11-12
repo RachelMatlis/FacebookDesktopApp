@@ -12,8 +12,6 @@ The application communicates with Facebook and provide basic features like:
       <li>Profile picture and cover picture</li>
       <li>Posts </li>
       <li>Birthday date </li>
-    
-    </ul>
 </ul>
   
 
