@@ -6,10 +6,13 @@ The application communicates with Facebook and provide basic features like:
 <ul>
   <li>Post new status</li>
   <li>Change profile picture and cover picture</li>
-  <li>Displays user data like: </li>
+  <li>Displays user profile data: </li>
   <ul>
       <li>Full name</li>
       <li>Profile picture and cover picture</li>
+      <li>Posts </li>
+      <li>Birthday date </li>
+    
     </ul>
 </ul>
   
