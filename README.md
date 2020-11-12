@@ -5,7 +5,7 @@ Desktop application
 The application communicates with Facebook and provide basic features like:
 <ul>
   <li>Post new status</li>
-  <li>Change profile and cover picture</li>
+  <li>Change profile picture and cover picture</li>
 
 
 
