@@ -16,7 +16,7 @@ The application communicates with Facebook and provide basic features like:
   
   # Features Description:
   
-  ##Checkin
+  ## Checkin
   
 
 
