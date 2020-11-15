@@ -14,6 +14,8 @@ The application communicates with Facebook and provide basic features like:
       <li>Birthday date </li>
 </ul>
   
+  ## Features Description:
+  
 
 
 
