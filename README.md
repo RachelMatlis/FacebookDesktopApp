@@ -4,8 +4,6 @@ A winForms application that communicates with Facebook and provides basic featur
 post new status, change profile/cover picture, displays active user profile data (full name, posts, profile/cover picturs, birthday date, etc..) 
 and displays user lists like frinds, events, etc...
 
-
-  
  # Features Description:
   
 <h3>1. Checkin: </h3>
@@ -19,6 +17,7 @@ and displays user lists like frinds, events, etc...
   <li>Visual Studio 2015</li>
 </ul>
 
+<h3>1. Most liked pictures: </h3>
   
   
 
