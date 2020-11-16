@@ -9,6 +9,11 @@ and displays user lists like frinds, events, etc...
 <h3>1. Checkin: </h3>
   find
   
+<h3>2. Most liked pictures: </h3>
+  
+ 
+ # Technologies used : 
+  
   <ul>
   <li>.NET Framework 4</li>
   <li>C# 3</li>
@@ -16,9 +21,6 @@ and displays user lists like frinds, events, etc...
   <li>WinForms</li>
   <li>Visual Studio 2015</li>
 </ul>
-
-<h3>2. Most liked pictures: </h3>
-  
   
 
 
