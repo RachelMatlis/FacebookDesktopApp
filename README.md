@@ -54,8 +54,8 @@ Singleton is necessary here since only one user is logged-in to the application,
  
 <ol>
   <li>Create an application-account on https://developers.facebook.com/apps to get an App ID</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>In Visual Studio add a reference to the .dll files (FbGraphApiWrapper.dll, Facebook.dll)</li>
+  <li>Use the static login method</li>
 </ol> 
 
 </body>
