@@ -66,7 +66,17 @@ your user.<br>
  </li>
  <li>The return value of the Login method (LoginResult) has a LoggedInUser property
 (of type FacebookWrapper.ObjectModel.User) which you should use in order to utilize your user's
-data and actions</li>
+data and actions
+  <ul>
+  <li>Data:<br>
+   user.FirstName, user.LastName, user.Birthday, user.RelationshipStatus, etc.
+   </li>
+  <li>C# 3</li>
+  <li>FacebookAPI</li>
+  <li>WinForms</li>
+  <li>Visual Studio 2015</li>
+</ul>
+</li>
 </ol> 
 
 </body>
