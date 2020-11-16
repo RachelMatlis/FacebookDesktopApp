@@ -6,7 +6,7 @@ and displays user lists like frinds, events, etc...
 
  # Features Description:
   
-<h3>1. Checkin: </h3>
+<h3>1. Find friends by Checkin: </h3>
   find
   
 <h3>2. Most liked pictures: </h3>
