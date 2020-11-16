@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ 
 # Facebook desktop application using Facebook SDK and FbGraphApiWrapper
 
 <p>The purpose of the project is to study and practice work with design patterns, object oriented programming and multi-threading programming.</p>
@@ -45,6 +50,8 @@ Singleton is necessary here since only one user is logged-in to the application,
 </ul>
 
 
+</body>
+</html>
 
 
 
