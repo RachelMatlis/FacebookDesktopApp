@@ -53,8 +53,8 @@ Singleton is necessary here since only one user is logged-in to the application,
  # Usage: 
  
 <ol>
-  <li>Create an application-account on https://developers.facebook.com/apps to get an App ID</li>
-  <li>In Visual Studio add a reference to the .dll files (FbGraphApiWrapper.dll, Facebook.dll)</li>
+  <li>Create an application-account on https://developers.facebook.com/apps to get an App ID.</li>
+  <li>In Visual Studio add a reference to the .dll files (FbGraphApiWrapper.dll, Facebook.dll).</li>
   <li>Use the static login method<br>
    
  ```
@@ -64,6 +64,9 @@ providing your AppID and the permissions required from your app's user to displa
 your user.<br>
 <b>For the list of permission, see this</b> https://developers.facebook.com/docs/facebook-login/permissions.
  </li>
+ <li>The return value of the Login method (LoginResult) has a LoggedInUser property
+(of type FacebookWrapper.ObjectModel.User) which you should use in order to utilize your user's
+data and actions</li>
 </ol> 
 
 </body>
