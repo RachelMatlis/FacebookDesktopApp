@@ -71,12 +71,22 @@ data and actions
   <li>Data:<br>
    user.FirstName, user.LastName, user.Birthday, user.RelationshipStatus, etc.
    </li>
-  <li>C# 3</li>
-  <li>FacebookAPI</li>
-  <li>WinForms</li>
-  <li>Visual Studio 2015</li>
+  <li>
+   Relations to facebook objects:<br>
+   user.Friends, user.FriendLists, user.Checkins, user.WallPosts, user.Events, user.Albums,
+   user.Pokes, user.Videos, etc.<br>
+   friend.FirstName, friend.LastName, friend.Albums, friend.Checkins, etc.<br>
+   album.Photos, checkin.Comments, photo.Comments, photo.Tagged, photo.LikedBy, etc.
+   </li>
+  <li>
+   Actions:<br>
+   user.PostStatus(), user.PostPhoto(), user.CreateAlbum(), user.CreateFriendList(), etc.<br>
+   album.UploadPhoto(), photo.Comment(), photo.Like(), status.Comment(), etc.
+   </li>
 </ul>
 </li>
+<li>If the user failed to login or simply closed/canceled the login dialog, the result object will indicate
+the error with the ErrorMessage property of the LoginResult object.</li>
 </ol> 
 
 </body>
