@@ -50,6 +50,7 @@ Singleton is necessary here since only one user is logged-in to the application,
   <li>Visual Studio 2015</li>
 </ul>
 
+ # Usage: 
 
 </body>
 </html>
