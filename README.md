@@ -55,7 +55,14 @@ Singleton is necessary here since only one user is logged-in to the application,
 <ol>
   <li>Create an application-account on https://developers.facebook.com/apps to get an App ID</li>
   <li>In Visual Studio add a reference to the .dll files (FbGraphApiWrapper.dll, Facebook.dll)</li>
-  <li>Use the static login method</li>
+  <li>Use the static login method<br>
+   
+ ```
+LoginResult result = FacebookWrapper.FBService.Login("272862089537667",
+providing your AppID and the permissions required from your app's user to display a login form to
+your user. 
+```
+ </li>
 </ol> 
 
 </body>
