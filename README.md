@@ -25,15 +25,10 @@ In addition, the user can select one of the pictures and update it as a new prof
  
  # Implemented design patterns: 
  Class Adapter, Singleton, Proxy, Iterator, Strategy and Template Method. 
- <ul>
-  <li> Class Adapter</li>
-  <li>Singleton</li>
-  <li>Proxy</li>
-  <li>Iterator</li>
-  <li>Strategy5</li>
- <li>Template Method</li>
-</ul>
- 
+
+<p>one example of usage: </p>
+- Singleton - 
+
  # Technologies used : 
   
   <ul>
