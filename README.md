@@ -84,7 +84,7 @@ data and actions
    album.UploadPhoto(), photo.Comment(), photo.Like(), status.Comment(), etc.
    </li>
 </ul>
- If the user failed to login or simply closed/canceled the login dialog, the result object will indicate
+ <br>If the user failed to login or simply closed/canceled the login dialog, the result object will indicate
 the error with the ErrorMessage property of the LoginResult object
 </li>
 <li>.</li>
