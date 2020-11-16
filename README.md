@@ -33,6 +33,7 @@ In addition, the user can select one of the pictures and update it as a new prof
 <h3>Example of Singleton usage: </h3>
 The pattern is activated during the log-in operation.<br>
 Singleton is used in order to create <b>one instance</b> of the variable: 
+
 ``` 
 m_login 
 ``` 
