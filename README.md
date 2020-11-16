@@ -58,9 +58,7 @@ Singleton is necessary here since only one user is logged-in to the application,
   <li>Use the static login method<br>
    
  ```
-LoginResult result = FacebookWrapper.FBService.Login("272862089537667",
-providing your AppID and the permissions required from your app's user to display a login form to
-your user. 
+LoginResult result = FacebookWrapper.FBService.Login( AppID, list of permission);
 ```
  </li>
 </ol> 
