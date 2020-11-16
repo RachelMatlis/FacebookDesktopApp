@@ -26,9 +26,8 @@ In addition, the user can select one of the pictures and update it as a new prof
  # Implemented design patterns: 
  Class Adapter, Singleton, Proxy, Iterator, Strategy and Template Method. 
 
-<ul>
-  Example of Singleton usage-
-</ul>
+ <p>Example of Singleton usage-</p>
+
 
  # Technologies used : 
   
