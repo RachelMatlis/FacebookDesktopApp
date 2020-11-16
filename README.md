@@ -22,7 +22,7 @@ The user can select a check-in from the list or search manually for a specific c
 After specified check-in name (picked from the list  or searched manually) a list of friends that checked-in in this particular location will appear. 
 The user is able to select any friend from the list to get more information about the check- in such as: Date, description and photos that shared by the selected friend.</p>
 
-<h3>2. Most liked pictures: </h3>
+<h3>2. Show most liked pictures: </h3>
 The feature reveals to the user up to 6 pictures that received the highest number of likes out of all the pictures that the user has ever uploaded to Facebook.
 In addition, the user can select one of the pictures and update it as a new profile picture or cover picture.
 
