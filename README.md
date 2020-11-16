@@ -60,7 +60,7 @@ Singleton is necessary here since only one user is logged-in to the application,
  ```
 LoginResult result = FacebookWrapper.FBService.Login( AppID, list of permission);
 ```
-<b>For the list of permission, see this https://developers.facebook.com/docs/facebook-login/permissions.
+<b>For the list of permission, see this</b> https://developers.facebook.com/docs/facebook-login/permissions.
  </li>
 </ol> 
 
