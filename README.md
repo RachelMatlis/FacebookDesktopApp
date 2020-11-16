@@ -19,7 +19,7 @@ After specified check-in name (picked from the list  or searched manually) a lis
 The user is able to select any friend from the list to get more information about the check- in such as: Date, description and photos that shared by the selected friend.</p>
 
 <h3>2. Most liked pictures: </h3>
-The feature reveals to the user up to 6 pictures that received the highest number of likes out of all the pictures that the user has ever uploaded to Facebook.<br>
+The feature reveals to the user up to 6 pictures that received the highest number of likes out of all the pictures that the user has ever uploaded to Facebook.
 In addition, the user can select one of the pictures and update it as a new profile picture or cover picture.
 
   
