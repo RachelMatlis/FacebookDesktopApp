@@ -17,7 +17,7 @@ and displays user lists like frinds, events, etc...
   <li>Visual Studio 2015</li>
 </ul>
 
-<h3>1. Most liked pictures: </h3>
+<h3>2. Most liked pictures: </h3>
   
   
 
