@@ -16,7 +16,7 @@ The user is able to select any friend from the list to get more information abou
 
 <h3>2. Most liked pictures: </h3>
 The feature reveals to the user up to 6 pictures that received the highest number of likes out of all the pictures that the user has ever uploaded to Facebook.<br>
-in addition, the user can select one of the pictures and update it as a new profile picture or cover picture.
+In addition, the user can select one of the pictures and update it as a new profile picture or cover picture.
 
   
  
