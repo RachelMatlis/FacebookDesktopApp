@@ -27,7 +27,7 @@ In addition, the user can select one of the pictures and update it as a new prof
  Class Adapter, Singleton, Proxy, Iterator, Strategy and Template Method. 
 
 <ul>
-  <li>Example of Singleton usage- </li>
+  Example of Singleton usage-
 </ul>
 
  # Technologies used : 
