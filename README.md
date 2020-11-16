@@ -27,7 +27,8 @@ In addition, the user can select one of the pictures and update it as a new prof
  Class Adapter, Singleton, Proxy, Iterator, Strategy and Template Method. 
 
 <p>Example of Singleton usage:</p>
-Activated during the log- in operation. 
+Activated during the log- in operation.<br>
+
 Singleton is used in order to create <b>one instance</b> of the variable: m_login , which contains data about the current logged-in user.
 Singleton is necessary here since only one user is logged-in to the application, therefore  only one instance of this user is required , additionally this instance has to live  until the end of the program.
 
