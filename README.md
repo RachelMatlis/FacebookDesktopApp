@@ -38,7 +38,7 @@ Singleton is used in order to create <b>one instance</b> of the variable:
 User m_loggedInUser 
 ``` 
 which contains data about the current logged-in user.
-Singleton is necessary here since only one user is logged-in to the application, therefore  only one instance of this user is required , additionally this instance has to live  until the end of the program.
+Singleton is necessary here since only one user is logged-in to the application, therefore  only one instance is required , additionally this instance has to live  until the end of the program.
 
  # Technologies used : 
   
