@@ -88,6 +88,8 @@ data and actions
 the error with the ErrorMessage property of the LoginResult object
 </li>
 <li>
+ The return value of the Login method (LoginResult) also has a AccessToken property which holds
+the AccessToken your app got in the Login process.<br>
  Use the static 'Connect' method, the AccessToken you got in the Login process, like such:
  
  ```
