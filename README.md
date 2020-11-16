@@ -22,7 +22,9 @@ The user is able to select any friend from the list to get more information abou
 The feature reveals to the user up to 6 pictures that received the highest number of likes out of all the pictures that the user has ever uploaded to Facebook.
 In addition, the user can select one of the pictures and update it as a new profile picture or cover picture.
 
-  
+ 
+ # Implemented design patterns: 
+ Class Adapter, Singleton, Proxy, Iterator, Strategy and Template Method. 
  
  # Technologies used : 
   
@@ -33,7 +35,8 @@ In addition, the user can select one of the pictures and update it as a new prof
   <li>WinForms</li>
   <li>Visual Studio 2015</li>
 </ul>
-  
+
+
 
 
 
