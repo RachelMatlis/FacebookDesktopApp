@@ -51,6 +51,12 @@ Singleton is necessary here since only one user is logged-in to the application,
 </ul>
 
  # Usage: 
+ 
+<ol>
+  <li>Create an application-account in Facebook: https://developers.facebook.com/apps </li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
 
 </body>
 </html>
