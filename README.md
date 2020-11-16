@@ -87,7 +87,14 @@ data and actions
  <br>If the user failed to login or simply closed/canceled the login dialog, the result object will indicate
 the error with the ErrorMessage property of the LoginResult object
 </li>
-<li>.</li>
+<li>
+ Use the static 'Connect' method, the AccessToken you got in the Login process, like such:
+ 
+ ```
+LoginResult result = FacebookWrapper.FBService.Connect(theAccessToken);
+```
+result.LoggedInUser will hold the User object with the logged in use data.
+</li>
 </ol> 
 
 </body>
