@@ -6,7 +6,9 @@
 post new status, change profile/cover picture, displays active user profile data (full name, posts, profile/cover picturs, birthday date, etc..) 
 and displays user lists like frinds, events, etc...</p>
 
- # Features Description:
+<p>In addition the appliction includes two unique features</p>
+
+ # Unique Features Description:
   
 <h3>1. Find friends by Check-in: </h3>
 <p>The user get the ability to discover which of his friends has visited a particular location and get essential information.</p>
