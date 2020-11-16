@@ -53,7 +53,7 @@ Singleton is necessary here since only one user is logged-in to the application,
  # Usage: 
  
 <ol>
-  <li>Create an application-account on https://developers.facebook.com/apps</li>
+  <li>Create an application-account on https://developers.facebook.com/apps to get an App ID</li>
   <li>Tea</li>
   <li>Milk</li>
 </ol> 
