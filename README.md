@@ -14,7 +14,7 @@ and displays user lists like frinds, events, check-ins, etc...</p>
 
  # Unique Features Description:
   
-<h3>1. Find friends by Check-in: </h3>
+<h3>1. Find friends by Check-in tags: </h3>
 <p>The user get the ability to discover which of his friends has visited a particular location and get essential information.</p>
 
 <p>The feature displays a sorted check-ins list by location name of all the user’s friends.
