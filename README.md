@@ -7,7 +7,7 @@ and displays user lists like frinds, events, etc...
  # Features Description:
   
 <h3>1. Find friends by Checkin: </h3>
-<p>The user get the ability to discover which of his friends has visited a particular location and get essential information that his friends shared.</p>
+<p>The user get the ability to discover which of his friends has visited a particular location and get essential information.</p>
 
 
 <p>The feature displays a sorted check-ins list by location name of all the user’s friends.
