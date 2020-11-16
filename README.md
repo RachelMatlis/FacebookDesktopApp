@@ -6,7 +6,7 @@
 post new status, change profile/cover picture, displays active user profile data (full name, posts, profile/cover picturs, birthday date, etc..) 
 and displays user lists like frinds, events, etc...</p>
 
-<p>In addition the appliction includes two unique features.</p>
+<p>In addition the appliction includes two unique features which is detailed  below.</p>
 
  # Unique Features Description:
   
