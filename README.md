@@ -1,8 +1,10 @@
 # Facebook desktop application using Facebook SDK and FbGraphApiWrapper
 
-A winForms application that communicates with Facebook and provides basic features like
+<p>The purpose of the project is to study and practice work with design patterns, object oriented programming and multi-threading programming.</p>
+
+<p>Facebook desktop application is a winForms application that communicates with Facebook and provides basic features like
 post new status, change profile/cover picture, displays active user profile data (full name, posts, profile/cover picturs, birthday date, etc..) 
-and displays user lists like frinds, events, etc...
+and displays user lists like frinds, events, etc...</p>
 
  # Features Description:
   
