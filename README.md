@@ -2,6 +2,8 @@
 <html>
 <head>
  
+ <h1>Facebook desktop application using Facebook SDK and FbGraphApiWrapper</h1>
+ 
 # Facebook desktop application using Facebook SDK and FbGraphApiWrapper
 
 <p>The purpose of the project is to study and practice work with design patterns, object oriented programming and multi-threading programming.</p>
