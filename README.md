@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
  
 # Facebook desktop application using Facebook SDK and FbGraphApiWrapper
 
