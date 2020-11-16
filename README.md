@@ -99,6 +99,19 @@ result.LoggedInUser will hold the User object with the logged in use data.
 </li>
 </ol> 
 
+ # Resources:
+ 
+ <ul>
+  <li>
+   Visit https://developers.facebook.com/docs/reference/api/ to understand more and get all the
+   information about the Facebook Graph API.
+</li>
+  <li>
+  Use the https://developers.facebook.com/tools/explorer application to browse data on facebook
+  using the Graph API and understanding Jason.
+</li>
+</ul>
+
 </body>
 </html>
 
